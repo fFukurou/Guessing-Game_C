@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715482919 source:c:\users\supev\documents\eoq\alura\formacao em c\c conhecendo a linguagem das linguagens\guessinggame3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
